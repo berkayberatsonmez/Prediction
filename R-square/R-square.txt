@@ -1,5 +1,0 @@
-Hata Karaleri Toplamı = Topla(yi-y'i)^2 (tahmin edilen değer - gerçek değer)^2
-Ortalama Farkların Toplamı = Topla(yi-yort)^2
-R^2 = 1- (HKT/OFT)
-
-Düzeltilmiş R^2 = 1-(1-R^2)(n-1/n-p-1)

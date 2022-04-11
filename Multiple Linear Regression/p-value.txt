@@ -1,0 +1,8 @@
+probility value olarak geçer
+
+H0:null hypothesis: Farksızlık hipotezi, sıfır hipotezi, boş hipotez/ örn:ders çalışma süresi arttıkça başırı süresi artar
+H1: Alternatif hipotez / örn:ders çalışma süresi arttıkça başarı artmaz
+
+p-değeri:olasılık değeri(genelde 00.5 alınır)
+P-değeri küçüldükçe H0 hatalı olma itimali artar
+P-değeri büyüdükçe H1 hatalı olma ihtimali artar

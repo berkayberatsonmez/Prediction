@@ -1,4 +1,0 @@
-Y = beta0 + beta1*x + beta2*X^2 + ... + betah*X^h + e
-y= beta0 + beta1*x1 +beta2*x2 + beta11*x1^2+beta22*x2^2 + ... + e
-
-eğrili grafikler için
